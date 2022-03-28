@@ -1,0 +1,19 @@
+body{
+	font-family: 'Courier New', Courier, monospace;
+	background-color: #111F34   ;
+	color: white;
+}
+h2{
+	margin-left:10%;
+}
+h1{
+	margin-left:40%;
+	color: #B5B20D ;
+}	
+#texte{
+	margin-left:25%;
+	font-size: 2em;
+}
+#fin{
+	margin-left: 40%;
+}
